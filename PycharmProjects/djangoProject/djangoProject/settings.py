@@ -28,7 +28,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'localhost',
-    'cbs-webapp-pl.onrender.com'
+    'cbs-webapp-pl.onrender.com',
+    'cbs-webapp-pl-3k6d.onrender.com'
 ]
 
 
